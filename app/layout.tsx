@@ -5,9 +5,9 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin", "cyrillic"] });
 
 export const metadata: Metadata = {
-  title: "CyberTerm — Платформа мікронавчання з кібербезпеки",
+  title: "CS Learning Hub",
   description:
-    "Інтерактивна платформа для вивчення термінів кібербезпеки. 30 днів навчання, словник та міні-тести.",
+    "Інтерактивна платформа для вивчення термінів кібербезпеки. 30 днів навчання та словник.",
 };
 
 export default function RootLayout({
